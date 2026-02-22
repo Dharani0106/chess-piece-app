@@ -30,10 +30,10 @@ Dataset is not included in this repository due to size limitations.
 
 ## Screenshots
 ### Home Page
-![Home](home.png)
+![Home](https://github.com/Dharani0106/chess-piece-app/blob/ba7f323bdc233f2b989f4c59ed50c88c5b22cdcc/Home.png)
 
 ### Prediction Example
-![Prediction](prediction.png)
+![Prediction](https://github.com/Dharani0106/chess-piece-app/blob/ba7f323bdc233f2b989f4c59ed50c88c5b22cdcc/Prediction.png)
 
 ## Technologies Used
 Python, TensorFlow, Keras, MobileNetV2, Streamlit, OpenCV, NumPy, Scikit-learn, Matplotlib
